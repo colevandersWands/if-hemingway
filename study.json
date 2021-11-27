@@ -3,6 +3,13 @@
   "study": {
     "ast": true,
     "flowchart": true,
-    "diff": true
+    "diff": true,
+    "save": true,
+    "variables": true,
+    "eval": true,
+    "trace": true,
+    "table": "values",
+    "ask": true,
+    "openIn": "jsTutorLive"
   }
 }

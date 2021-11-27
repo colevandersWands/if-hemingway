@@ -22,7 +22,7 @@ See also [my JSConf presentation](https://speakerdeck.com/anguscroll/javascript-
    - `$ npm install -g study-lenses` (if you do not have it already)
    - `$ npm update -g study-lenses` (if you already have it installed)
 2. Clone this repository:
-   - `$ git clone git@github.com:HackYourFutureBelgium/welcome-to-js.git`
+   - `$ git clone git@github.com:colevandersWands/if-hemingway.git`
 3. Navigate to the module repository in terminal
    - `$ cd if-hemingway`
 4. Run the `study` command from your CLI
